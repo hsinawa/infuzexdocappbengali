@@ -309,7 +309,7 @@ a{
 {
     float:  right;
     margin-right: 7px;
-    font-size: 12px;
+    font-size: 8px;
     font-family: Roboto;
     background-color: black;
     color: white;
@@ -329,7 +329,7 @@ a{
 {
     float:  right;
     margin-right: 7px;
-    font-size: 12px;
+    font-size: 8px;
     font-family: Roboto;
     border: 1px solid black;
     padding-left: 15px;
@@ -374,7 +374,7 @@ a{
 {
     float:  right;
     margin-right: 2px;
-    font-size: 10px;
+    font-size: 8px;
     font-family: Roboto;
     background-color: black;
     border: 1px solid black;
@@ -394,7 +394,7 @@ a{
 {
     float:  right;
     margin-right: 2px;
-    font-size: 10px;
+    font-size: 8px;
     font-family: Roboto;
     border: 0.5px solid black;
     padding-left: 8px;
